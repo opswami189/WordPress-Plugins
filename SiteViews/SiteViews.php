@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: SiteViews
- * Plugin URI: #
+ * Plugin URI: https://github.com/opswami189/WordPress-Plugins/tree/master/SiteViews
  * Version:      1.0
  * Author:       Om Prakash
  * Author URI: https://www.linkedin.com/in/om-prakash-swami/

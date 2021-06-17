@@ -6,7 +6,7 @@
  * Version:      1.0
  * Author:       Om Prakash
  * Author URI: https://www.linkedin.com/in/om-prakash-swami/
- * Description: Demo plugin for creating forms
+ * Description: An interactive plugin for counting the views of your site's homepage
  */
 
 add_action('admin_menu', 'site_views_setup_menu');
